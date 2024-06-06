@@ -1,0 +1,17 @@
+.container{
+   background: rgb(11, 52, 77);
+   border-radius: 10px;
+   border-bottom-left-radius: 10px;
+}
+.container:hover{
+   background: rgb(185, 196, 196);
+   box-shadow: 0 0 25px rgb(49, 11, 71);
+}
+body{
+   background: rgb(9, 23, 87);
+}
+input{
+   padding: 15px;
+   padding-left: 12px;
+   border-radius: 8%;
+}
