@@ -1,0 +1,15 @@
+{
+  "hash": "eddb8731",
+  "configHash": "99e22803",
+  "lockfileHash": "5d5d2d0d",
+  "browserHash": "a0ecf4c4",
+  "optimized": {
+    "vue": {
+      "src": "../../vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "fc949356",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}
